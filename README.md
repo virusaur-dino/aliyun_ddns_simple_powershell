@@ -1,0 +1,2 @@
+# aliyun_ddns_simple_powershell
+阿里云DNS动态更新Powershell脚本
